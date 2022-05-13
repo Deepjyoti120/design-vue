@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- Sidebar backdrop (mobile only) -->
+    <!-- Sidebar backdrop  -->
     <div
       class="
         fixed
